@@ -71,4 +71,6 @@ I’m Hari Om, a second-year Information Science undergrad at NIE Institute of T
 
 ## 📕 Pinned Repositories
 
+## Snake eating my contrbution graph
+ ![Snake animation](https://github.com/omhari1472/omhari1472/blob/output/github-contribution-grid-snake.svg)
 
