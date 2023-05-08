@@ -9,7 +9,7 @@ I’m Hari Om, a second-year Information Science undergrad at NIE Institute of T
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omhari1472&label=Profile%20views&color=0e75b6&style=flat" alt="omhari1472" /> </p>
 
-# 📚 Resume:
+## 📚 Resume:
 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=Resume&logoColor=white)](https://flowcv.com/resume/31jko7bb7h) 
 
 ## 🌐 Socials:
