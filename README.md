@@ -1,9 +1,13 @@
+[![MasterHead](https://github.com/omhari1472/omhari1472/blob/main/banner.gif)](https://hari019.github.io/portfolio.github.io/)
 
-## Hi, I am [Hari Om](https://www.linkedin.com/in/hari-om-a1a661215/). Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I’m Hari Om, a second-year Information Science undergrad at NIE Institute of Technology. I'm a member of the Codesmith Club and love to work on projects that involve Web development. Web development is my passion, and I'm always eager to learn about new technologies. I'm open to collaborating on projects and exploring innovative ideas. Feel free to connect with me here:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omhari1472&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsohail404" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omhari1472&label=Profile%20views&color=0e75b6&style=flat" alt="omhari1472" /> </p>
 
 
 ## 🌐 Socials:
