@@ -76,6 +76,16 @@ I’m Hari Om, a second-year Information Science undergrad at NIE Institute of T
 
 ## 📕 Pinned Repositories
 
+<p align="center">
+<a href="https://github.com/omhari1472/omhari1472">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omhari1472&repo=omhari1472&hide_border=true&theme=radical" />
+</a>    
+<p align="center">
+<a href="https://github.com/omhari1472/omhari1472">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omhari1472&repo=portfolio.github.io&hide_border=true&theme=radical" />
+</a>
+    
 ## Snake eating my contrbution graph
- ![Snake animation](https://github.com/omhari1472/omhari1472/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
