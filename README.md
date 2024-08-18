@@ -10,8 +10,10 @@ I’m Hari Om, a third-year Information Science undergrad at NIE Institute of Te
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omhari1472&label=Profile%20views&color=0e75b6&style=flat" alt="omhari1472" /> </p>
 
 ## 📚 Portfolio:
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=Resume&logoColor=white)](https://hariom1472.netlify.app/)
-<br><b><a href="https://hariom1472.netlify.app/">Click Here To See My Portfolio!<a><b>
+<a href="https://hariom1472.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portfolio">
+</a>
+<br><b><a href="https://hariom1472.netlify.app/" target="_blank" rel="noopener noreferrer">Click Here To See My Portfolio!<a><b>
 
 ## 📚 Resume:
 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=Resume&logoColor=white)](https://flowcv.com/resume/31jko7bb7h)
