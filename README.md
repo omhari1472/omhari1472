@@ -2,7 +2,7 @@
 
 ## Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I’m Hari Om, a third-year Information Science undergrad at NIE Institute of Technology. I'm a member of the Codesmith Club and love to work on projects that involve Web development. Web development is my passion, and I'm always eager to learn about new technologies. I'm open to collaborating on projects and exploring innovative ideas. Feel free to connect with me here:
+I’m Hari Om, a final-year Information Science undergrad at NIE Institute of Technology. I'm a member of the Codesmith Club and love to work on projects that involve Web development. Web development is my passion, and I'm always eager to learn about new technologies. I'm open to collaborating on projects and exploring innovative ideas. Feel free to connect with me here:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
