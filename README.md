@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/omhari1472/omhari1472/blob/main/banner.gif" width="100%" alt="banner"/>
-</div>
-
 <h1 align="center">Hi there 👋 I'm Hari Om</h1>
 <h3 align="center">Backend Engineer | Node.js • TypeScript • SQL | Building Scalable AI-Integrated Systems</h3>
 
