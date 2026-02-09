@@ -30,7 +30,7 @@ Backend-focused Software Engineer with hands-on experience building **scalable S
 
 ## 💼 Experience Highlights
 
-**NxtJob.ai** — *SDE & SDE Intern* (Sep 2024 - Sep 2025)
+**NxtJob.ai** — *SDE & SDE Intern* (Sep 2024 - Nov 2025)
 - Built **ERP/CRM backend** managing 10K+ monthly records with role-based access
 - Developed **AI Chat Reply system** using LLMs + RAG, improving reliability by 40%
 - Created **multi-gateway payment platform** (PhonePe, Razorpay, Stripe) with automated invoicing
